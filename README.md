@@ -48,7 +48,7 @@ Type of Files and Command to run them
             Apply Function in ParserSystem.py
 
 5]Neural Net without training:
-    DependencyParser_parallel.py
+    DependencyParser_fixed.py
     run python DependencyParser_fixed.py
     contains:
             Loss Function DependencyParserModel.build_graph(...)
@@ -61,6 +61,3 @@ Type of Files and Command to run them
 6]Config.py
 Contains all configurations for hyper parameters.
 
-7]results_test.conll
-
-8]Report.pdf
